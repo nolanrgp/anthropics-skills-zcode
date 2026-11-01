@@ -1,0 +1,18 @@
+{
+  "name": "dev-ae3d48ce-6ca5-4d8b-a106-9f9a63a24300-a1f84003",
+  "plugins": [
+    {
+      "name": "frontend-design",
+      "source": "./frontend-design",
+      "version": "0.1.0",
+      "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+      "displayName": "Frontend Design",
+      "displayName_i18n": {
+        "zh-CN": "前端设计"
+      },
+      "description_i18n": {
+        "zh-CN": "构建或重塑 UI 时提供独特、有意图的视觉设计指导（移植自 anthropics/skills）"
+      }
+    }
+  ]
+}
